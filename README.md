@@ -27,8 +27,13 @@ Data Visualization: Custom charts for distribution analysis and trend reporting.
 
 📂 Project Structure
 Plaintext
+
 ├── dataset/            # Raw and Cleaned datasets(Excel)
+
 ├── reports/            # Final EDA Report (PDF)
+
 └── LICENSE             # MIT License
+
+
 📬 Contact
 Feel free to reach out if you’d like to discuss the methodology or the insights derived from this project!
