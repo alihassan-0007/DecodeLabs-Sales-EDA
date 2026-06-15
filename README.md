@@ -1,8 +1,8 @@
 📊 DecodeLabs: Sales Data Exploratory Data Analysis (EDA)
 
 📌 Project Overview
-
-                     This project provides a comprehensive Exploratory Data Analysis (EDA) on the DecodeLabs sales dataset. The goal of this analysis was to transform raw, inconsistent data into actionable business insights by identifying sales trends, measuring product performance, and understanding customer acquisition channels.
+			    
+  This project provides a comprehensive Exploratory Data Analysis (EDA) on the DecodeLabs sales dataset. The goal of this analysis was to transform raw, inconsistent data into actionable business insights by identifying sales trends, measuring product performance, and understanding customer acquisition channels.
 
 🚀 Key Methodologies
 To ensure the highest level of data accuracy, the following analytical processes were implemented:
